@@ -1,0 +1,17 @@
+@import "react-slideshow-image/dist/styles.css";
+
+.slide-container{
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.slide-container img{
+    height: 300px;
+    width: 100%;
+}
+
+.slide-container .react-slideshow-container {
+    width: 500px;
+    display: inline-flex;
+}
